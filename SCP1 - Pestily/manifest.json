@@ -1,6 +1,6 @@
 {
-    "name": "SCP1 - Pestily",
-    "version_number": "1.0.0",
+    "name": "SCP1_Pestily",
+    "version_number": "1.1.0",
     "website_url": "",
     "description": "Content Pack for AtO that consists of a new Healer / Mage and some cards that revolve around Poison / Dark. May be updated to include more content in time.",
     "dependencies": [
