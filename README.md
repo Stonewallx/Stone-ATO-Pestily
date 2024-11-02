@@ -6,6 +6,8 @@ This will eventually be part of a bigger modpack for Across the Obelisk in time.
 
 Credits to @Binbin in the AtO Discord for coding the character traits.
 
+**Will update to incluide character info in time.**
+
 This mod requires [Obeliskial Content](https://across-the-obelisk.thunderstore.io/package/meds/Obeliskial_Content/).
 
 ## Installation (manual)
