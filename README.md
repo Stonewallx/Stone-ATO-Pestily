@@ -4,9 +4,10 @@ This is a small content pack for **Across the Obelisk** that currently includes 
 
 This will eventually be part of a bigger modpack for Across the Obelisk in time.
 
+**Character Info:** [Link](https://getupnote.com/share/notes/zGnzMjZ3qDgIeWkl6ZH0RMO7cqq1/aad2940f-b740-4980-be52-b1dcfb2ebd42)
+
 **Full Patch Notes:** [Link](https://getupnote.com/share/notes/zGnzMjZ3qDgIeWkl6ZH0RMO7cqq1/d48d397a-1606-45ea-aa15-dedffa512914)
 
-**Will update to include character info.**
 
 Credits to @Binbin in the AtO Discord for coding the character traits.
 
