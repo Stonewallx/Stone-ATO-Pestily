@@ -1,4 +1,4 @@
-# SCP1 - Swamp Medicine
+# SCP1 - Pestily
 
 This is a small content pack for **Across the Obelisk** that currently includes a new Healer/Mage character that revovles around Dark/Poison damage and healing with Poison/Wet as well as some new cards to go along with the character. May be updated eventually to include more new items, cards, or zone. 
 
