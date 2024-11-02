@@ -4,7 +4,7 @@ This is a small content pack for **Across the Obelisk** that currently includes 
 
 This will eventually be part of a bigger modpack for Across the Obelisk in time.
 
-Credits to @Binbin in the AtO Discord for coding the character.
+Credits to @Binbin in the AtO Discord for coding the character traits.
 
 This mod requires [Obeliskial Content](https://across-the-obelisk.thunderstore.io/package/meds/Obeliskial_Content/).
 
