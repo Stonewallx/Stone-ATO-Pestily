@@ -29,5 +29,5 @@ This mod requires [Obeliskial Content](https://across-the-obelisk.thunderstore.i
 
 # Support / Feedback
 
-Make a post in the **Modding #mod-support-requests** channel of the [official Across the Obelisk Discord](https://discord.gg/across-the-obelisk-679706811108163701). Feel free to ping me in there.
+Post an issue in the Github here, or make a post in the **Modding #mod-support-requests** channel of the [official Across the Obelisk Discord](https://discord.gg/across-the-obelisk-679706811108163701). Feel free to ping me in there.
 
