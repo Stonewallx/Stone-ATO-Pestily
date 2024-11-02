@@ -1,12 +1,13 @@
 # SCP1 - Pestily
 
-This is a small content pack for **Across the Obelisk** that currently includes a new Healer/Mage character that revovles around Dark/Poison damage and healing with Poison/Wet as well as some new cards to go along with the character. May be updated eventually to include more new items, cards, or zone. 
+This is a small content pack for **Across the Obelisk** that currently includes a new Healer/Mage character that revolves around Dark/Poison damage and healing with Poison/Wet as well as some new cards to go along with the character. May be updated eventually to include more new items, cards, or zone. 
 
 This will eventually be part of a bigger modpack for Across the Obelisk in time.
 
-**Will update to incluide character info.**
+**Will update to include character info.**
 
 Credits to @Binbin in the AtO Discord for coding the character traits.
+
 This mod requires [Obeliskial Content](https://across-the-obelisk.thunderstore.io/package/meds/Obeliskial_Content/).
 
 ## Installation (manual)
